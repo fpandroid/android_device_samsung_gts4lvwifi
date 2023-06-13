@@ -24,8 +24,8 @@ $(call inherit-product, device/samsung/gts4lvwifi/device.mk)
 # Inherit some common Evolution stuff.
 $(call inherit-product, vendor/evolution/config/common_full_tablet_wifionly.mk)
 
-# Add Gapps (optional)
-TARGET_USES_MINI_GAPPS := true
+# Uncomment for minimal GApps
+# TARGET_USES_MINI_GAPPS := true
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := gts4lvwifi
