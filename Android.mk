@@ -1,5 +1,5 @@
 #
-# github.com/fpdroid
+# github.com/fpandroid
 #
 
 # WARNING: Everything listed here will be built on ALL platforms,
