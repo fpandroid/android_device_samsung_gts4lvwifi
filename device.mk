@@ -1,5 +1,5 @@
 #
-# github.com/fpdroid
+# github.com/fpandroid
 #
 
 # Get non-open-source specific aspects
