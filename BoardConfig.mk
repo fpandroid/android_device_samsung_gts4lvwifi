@@ -1,5 +1,5 @@
 #
-# github.com/fpdroid
+# github.com/fpandroid
 #
 
 # inherit from common gts4lv-common
