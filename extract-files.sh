@@ -1,9 +1,6 @@
 #!/bin/bash
 #
-# Copyright (C) 2016 The CyanogenMod Project
-# Copyright (C) 2017-2020 The LineageOS Project
-#
-# SPDX-License-Identifier: Apache-2.0
+# github.com/fpandroid
 #
 
 # If we're being sourced by the common script that we called,
